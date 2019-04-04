@@ -1,4 +1,4 @@
----
+---ytr
 aliases: bots
 display_name: Bot
 short_description: A bot is an application that runs automated tasks over the Internet.
